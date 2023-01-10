@@ -39,4 +39,4 @@ I'm 18y/o student from Armenia who's trying to do his best at programming. I als
 
 ### 📈 Stats
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namrabtw&show_icons=true&theme=bear)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namrabtw&layout=compact&theme=bear)
+![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namrabtw&layout=compact&theme=bear)
