@@ -33,8 +33,6 @@ I'm 18y/o student from Armenia who's trying to do his best at programming. I als
 <img align="left" alt="photoshop" width="30px" style="padding-right: 10px, margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="illustrator" width="30px" style="padding-right: 10px, margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 
-<br>
-
 #
 
 ### 📈 Stats
