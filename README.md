@@ -14,7 +14,7 @@ I'm 18y/o student from Armenia who's trying to do his best at programming. I als
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="xcode" width="30px" style="padding-right: 10px, margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+<img align="left" alt="xcode" width="30px" style="padding-right: 10px, padding-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 <img align="left" alt="swift" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="firebase" width="30px" style="padding-right: 10px, margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 
