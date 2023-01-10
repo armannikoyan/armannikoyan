@@ -35,8 +35,9 @@ I'm 18y/o student from Armenia who's trying to do his best at programming. I als
 <img align="left" alt="illustrator" width="30px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 
 <br>
+<br>
 
-#
+---
 
 ### 📈 Stats
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namrabtw&show_icons=true&theme=bear)
