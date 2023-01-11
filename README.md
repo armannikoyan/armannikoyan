@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Designer)`**
 
-I'm 18y/o student from Armenia who's trying to do his best at programming. I also like designing logos or make some simple style illustrations. Currently I'm working on [discord.swift](https://github.com/namrabtw/discord.swift) which is a discord API wrapper for swift.
+I'm 18y/o student from Armenia who's trying to do his best at programming. I also like designing logos or make some simple illustrations. Currently I'm working on [discord.swift](https://github.com/namrabtw/discord.swift) which is a discord API wrapper for swift.
 
 <p align="center">
   <a href="https://github.com/namrabtw?tab=followers">
