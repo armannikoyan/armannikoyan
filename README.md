@@ -2,8 +2,6 @@
 
 **`Digital Craftsman (Developer/Designer)`**
 
-I'm 18y/o student from Armenia who's trying to do his best at programming. I also like designing logos or make some simple illustrations.
-
 <p align="center">
   <a href="https://github.com/namrabtw?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/namrabtw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
