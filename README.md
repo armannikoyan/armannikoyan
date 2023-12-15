@@ -1,21 +1,19 @@
-# ☾ Arman Nikoyan
+## ☾ Arman Nikoyan
 
-**`Digital Craftsman (Developer/Designer)`**
-
-<p align="center">
-  <a href="https://github.com/namrabtw?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/namrabtw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/namrabtw?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/namrabtw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+### Skills
 
 ---
+#### Programming
+![image](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-### 🧰 Languages and Tools
-<img align="left" alt="vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-          
-          
+#### Web
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Cloud & DevOps
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
           
 <img align="left" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="mongodb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -33,6 +31,6 @@
 
 ---
 
-### 📈 Stats
+#### 📈 Stats
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namrabtw&show_icons=true&theme=bear)
 ![My top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namrabtw&layout=compact&theme=bear)
