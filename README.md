@@ -15,6 +15,7 @@
 
 ### |⃓⎹⏐ Stats
 ---
+[![anikoyan's 42 stats](https://badge.mediaplus.ma/darkgray/anikoyan)](https://github.com/oakoudad/badge42)
 
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armannikoyan&show_icons=true&theme=bear)
 
