@@ -1,22 +1,23 @@
-## ☾ Arman Nikoyan
+# Arman Nikoyan
 
-### ⬆ Skills
+## Skills
 ---
 
-#### Programming
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=ffffff&logoSize=auto&color=000000)
-![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff&logoSize=auto&color=000000)
-![rust](https://img.shields.io/badge/Rust-_?style=for-the-badge&logo=rust&logoColor=ffffff&logoSize=auto&color=000000)
+### Languages
+![c](https://img.shields.io/badge/c-_?style=for-the-badge&logo=c&logoColor=c5c8c6&logoSize=auto&color=1d1f21)
+![cpp](https://img.shields.io/badge/cpp-_?style=for-the-badge&logo=c%2B%2B&logoColor=c5c8c6&logoSize=auto&color=1d1f21)
 
-#### Cloud & DataBases
-![mongodb](https://img.shields.io/badge/MongoDB-_?style=for-the-badge&logo=mongodb&logoColor=ffffff&logoSize=auto&color=000000)
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=ffffff&logoSize=auto&color=000000)
+### Tools
+![make](https://img.shields.io/badge/make-_?style=for-the-badge&logo=make&logoColor=c5c8c6&logoSize=auto&color=1d1f21)
+![git](https://img.shields.io/badge/git-_?style=for-the-badge&logo=git&logoColor=c5c8c6&logoSize=auto&color=1d1f21)
 
+### Cloud & DataBases
+![mongodb](https://img.shields.io/badge/MongoDB-_?style=for-the-badge&logo=mongodb&logoColor=c5c8c6&logoSize=auto&color=1d1f21)
 
-### |⃓⎹⏐ Stats
+## Stats
 ---
-[![anikoyan's 42 stats](https://badge.mediaplus.ma/starryblue/anikoyan)](https://github.com/oakoudad/badge42)
+[![anikoyan's 42 statistics](https://badge.mediaplus.ma/starryblue/anikoyan)](https://github.com/oakoudad/badge42)
 
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armannikoyan&show_icons=true&theme=bear)
+![Arman's GitHub statistics](https://github-readme-stats.vercel.app/api?username=armannikoyan&show_icons=true&theme=bear)
 
 ![Arman's top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armannikoyan&layout=compact&theme=bear&card_width=467)
