@@ -1,7 +1,6 @@
 # Arman Nikoyan
 
 ## Skills
----
 
 ### Languages
 ![c](https://img.shields.io/badge/c-_?style=for-the-badge&logo=c&logoColor=c5c8c6&logoSize=auto&color=1d1f21)
@@ -15,7 +14,6 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-_?style=for-the-badge&logo=mongodb&logoColor=c5c8c6&logoSize=auto&color=1d1f21)
 
 ## Stats
----
 [![anikoyan's 42 statistics](https://badge.mediaplus.ma/starryblue/anikoyan)](https://github.com/oakoudad/badge42)
 
 ![Arman's GitHub statistics](https://github-readme-stats.vercel.app/api?username=armannikoyan&show_icons=true&theme=bear)
