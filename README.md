@@ -14,8 +14,9 @@
 ![mongodb](https://img.shields.io/badge/MongoDB-_?style=for-the-badge&logo=mongodb&logoColor=c5c8c6&logoSize=auto&color=1d1f21)
 
 ## Stats
-[![anikoyan's 42 statistics](https://badge.mediaplus.ma/starryblue/anikoyan)](https://github.com/oakoudad/badge42)
+<p align="center">
+  <img src="https://badge.mediaplus.ma/starryblue/anikoyan" alt="42 stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=armannikoyan&theme=dracula" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armannikoyan&layout=compact&theme=bear" alt="Top Languages" height="150"/>
+</p>
 
-![Arman's GitHub statistics](https://github-readme-stats.vercel.app/api?username=armannikoyan&show_icons=true&theme=bear)
-
-![Arman's top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armannikoyan&layout=compact&theme=bear&card_width=467)
