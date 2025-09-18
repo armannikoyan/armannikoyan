@@ -15,8 +15,8 @@
 
 ## Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armannikoyan&theme=dracula&show_icons=true&include_all_commits=true" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armannikoyan&layout=compact&theme=dracula" alt="Top Languages" height="150"/>
   <img src="https://badge.mediaplus.ma/starryblue/anikoyan" alt="42 stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=armannikoyan&theme=dracula" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armannikoyan&layout=compact&theme=bear" alt="Top Languages" height="150"/>
 </p>
 
